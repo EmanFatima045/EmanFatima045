@@ -26,7 +26,7 @@ I have worked with various **cybersecurity and forensic tools** and have experti
 - **Forensics Tools:** Magnet RAM Capturer, EnCase, Sleuth Kit, Belkasoft Evidence Center
 - **Data Analysis:** NumPy, SciPy, Pandas
 - **Databases:** PostgreSQL, MySQL
-- **Other Tools:** Wireshark, Tcpdump, Hashcalc, AOMEI Backupper
+- **Other Tools:** Wireshark, Tcpdump
 
 ---
 
