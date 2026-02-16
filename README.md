@@ -1,21 +1,21 @@
-<h1 align="center">Hi , I'm Eman Fatima</h1>
+<h1 align="center">Hi, I'm Eman Fatima</h1>
 <h3 align="center">🚀 Cybersecurity Engineer | 🔍 Digital Forensics Specialist</h3>
 
 ---
 
 ### 🧑‍💻 **About Me**
-I am a passionate **Cybersecurity Engineer** with hands-on experience in **digital forensics**, **threat analysis**, and **incident response**.  
-I have worked with various **cybersecurity and forensic tools** and have expertise in both **practical security implementations** and **analytical investigations**.  
+I am a passionate **Cybersecurity Engineer** dedicated to exploring the world of **digital forensics, threat analysis, and incident response**.  
+With hands-on experience in **cybersecurity tools** and **forensic investigations**, I enjoy bridging the gap between technical implementations and analytical problem-solving.  
 
-💡 I’m interested in:
-- Penetration Testing
+💡 I’m deeply interested in:
+- Penetration Testing & Vulnerability Assessment
 - Digital Forensics Investigations
 - Audio Forensics & Tampering Detection
 - Secure Software Development
 
 📫 **Reach me at:**  
 [![Gmail Badge](https://img.shields.io/badge/-emanfatima045@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:emanfatima045@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-Eman%20Fatima-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/eman-fatima)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Eman%20Fatima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eman-fatima-512a01246/)  
 [![GitHub Badge](https://img.shields.io/badge/-EmanFatima045-black?style=flat&logo=github&logoColor=white)](https://github.com/EmanFatima045)
 
 ---
@@ -47,14 +47,13 @@ I have worked with various **cybersecurity and forensic tools** and have experti
 ---
 
 ### 🌟 **Featured Projects**
-- **🎯 Cowrie Honeypot Project** – SSH/Telnet honeypot for attack simulation and analysis
-- **🎧 Audio Forensics & Tampering Detection** – Detecting and analyzing audio manipulations using ML
-- **🛡 Blockchain-based Healthcare Security** – Securing patient data with blockchain & AI
+- **🎯 Cowrie Honeypot Project** – SSH/Telnet honeypot for attack simulation and analysis  
+- **🎧 Audio Forensics & Tampering Detection** – Detecting and analyzing audio manipulations using machine learning  
+- **🛡 Blockchain-based Healthcare Security** – Securing patient data with blockchain & AI-based anomaly detection
 
 ---
 
 <p align="center">
   <b>💬 "Cybersecurity is not just a profession, it's a responsibility!"</b>
 </p>
-
 
