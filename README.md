@@ -1,15 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=220&section=header&text=Eman%20Fatima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Digital%20Forensics&descAlignY=55&descSize=20" width="100%"/>
-
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:emanfatima60860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/EmanFatima045"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Rahim%20Yar%20Khan-Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=300&section=header&text=EMAN%20FATIMA&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%E2%9A%94%EF%B8%8F%20AI%2FML%20%E2%9A%94%EF%B8%8F%20Digital%20Forensics&descAlignY=58&descSize=24&stroke=00FF87&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EB67D&center=true&vCenter=true&width=600&lines=Final-Year+BS+Cybersecurity+%26+Digital+Forensics+Student;Threat+Detection+%7C+Blockchain+Security+%7C+AI+Anomaly+Detection;Published+Researcher+%E2%80%94+ICACNC+2025;Building+Secure+Systems+with+AI+%2B+Blockchain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=00FF87&center=true&vCenter=true&width=750&lines=%F0%9F%9B%A1%EF%B8%8F+Final-Year+BS+Cybersecurity+%26+Digital+Forensics;%F0%9F%94%8E+Threat+Detection+%7C+Blockchain+Security;%F0%9F%A4%96+AI-Based+Anomaly+Detection;%F0%9F%93%9C+Published+Researcher+%E2%80%94+ICACNC+2025;%F0%9F%9A%80+Securing+Systems+with+AI+%2B+Blockchain" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:emanfatima60860@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
+<a href="https://github.com/EmanFatima045"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+<img src="https://img.shields.io/badge/Rahim%20Yar%20Khan-Pakistan-00FF87?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000"/>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=EmanFatima045&style=for-the-badge&color=00FF87&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/EmanFatima045?style=for-the-badge&color=00FF87&labelColor=000000)
+![Stars](https://img.shields.io/badge/STARS-Cybersecurity_%E2%9A%A1_AI-00FF87?style=for-the-badge&labelColor=000000)
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
+<sub>👩‍💻 hacking the matrix, one anomaly at a time</sub>
 
 </div>
 
@@ -27,6 +43,20 @@ interests: ["Threat Detection", "Blockchain Security", "AI Anomaly Detection", "
 research: "Published at ICACNC 2025 🎓"
 currently: "Pursuing a cybersecurity role to apply hands-on security & AI skills"
 ```
+
+---
+
+### 📝 Professional Summary
+
+<table width="100%"><tr><td>
+
+Cybersecurity specialist and final-year **BS Cybersecurity & Digital Forensics** student (CGPA **3.50**) at The Islamia University of Bahawalpur, with hands-on experience in **threat detection**, **blockchain security**, **AI-based anomaly detection**, and **digital forensics**. Published researcher (**ICACNC 2025**) with proven leadership in team projects, technical event hosting, and IEEE cybersecurity programs. Seeking to apply practical skills in a challenging cybersecurity role.
+
+</td></tr></table>
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="180" style="object-fit:cover;border-radius:10px;"/>
+</div>
 
 ---
 
@@ -128,6 +158,12 @@ currently: "Pursuing a cybersecurity role to apply hands-on security & AI skills
 ---
 
 ### 🚀 Featured Projects
+
+<div align="center">
+<img src="https://media.giphy.com/media/SeIxKEKZHEvIM/giphy.gif" width="100%" height="180" style="object-fit:cover;border-radius:10px;"/>
+</div>
+
+<br/>
 
 <table width="100%">
 <tr>
